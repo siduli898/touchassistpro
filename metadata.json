@@ -1,0 +1,6 @@
+{
+  "name": "TouchAssist Pro",
+  "description": "Assistive touch controller, broken hardware buttons replacement, low-battery siren alarm, double-tap OLED sleep, and 1-click USB emergency power-on hub for Android & Oppo smartphones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
